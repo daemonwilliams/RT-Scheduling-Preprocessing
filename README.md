@@ -3,7 +3,7 @@
 This project investigates using transitive reduction as a preprocessing step to improve the runtime efficiency of real-time task scheduling algorithms. 
 By removing redundant edges from task precedence graphs, the scheduler performs fewer dependency checks per time step, resulting in faster scheduling.
 
-This work was presented at the **IEEE SusTech 2026 Student Poster Contest**.
+This work is to be presented at the **IEEE SusTech 2026 Student Poster Contest**.
 
 **Extended Abstract:** *Using Transitive Reduction of Task Precedence Graphs to Improve Efficiency of Real-Time Scheduling Algorithms*
 **Poster:** *Using Transitive Reduction of Task Precedence Graphs to Improve Efficiency of Real-Time Scheduling Algorithms*
