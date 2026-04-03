@@ -5,10 +5,6 @@ By removing redundant edges from task precedence graphs, the scheduler performs 
 
 This work is to be presented at the **IEEE SusTech 2026 Student Poster Contest**.
 
-**Extended Abstract:** *Using Transitive Reduction of Task Precedence Graphs to Improve Efficiency of Real-Time Scheduling Algorithms*
-**Poster:** *Using Transitive Reduction of Task Precedence Graphs to Improve Efficiency of Real-Time Scheduling Algorithms*
-**Authors:** Daemon Williams, Dr. Stefan Andrei (Advisor) — Cleveland State University
-
 ## Overview
 
 Real-time task schedulers with precedence constraints are commonly modeled as directed acyclic graphs (DAGs). 
